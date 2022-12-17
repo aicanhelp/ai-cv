@@ -1,0 +1,18 @@
+[submodule "resources/learnopencv"]
+	path = resources/learnopencv
+	url = https://github.com/spmallick/learnopencv.git
+[submodule "resources/opencv-py-tutorials"]
+	path = resources/opencv-py-tutorials
+	url = https://github.com/makelove/OpenCV-Python-Tutorial.git
+[submodule "resources/gocv"]
+	path = resources/gocv
+	url = https://github.com/hybridgroup/gocv.git
+[submodule "resources/opencv"]
+	path = resources/opencv
+	url = https://github.com/opencv/opencv.git
+[submodule "resources/cvat"]
+	path = resources/cvat
+	url = https://github.com/opencv/cvat.git
+[submodule "resources/opencv_zoo"]
+	path = resources/opencv_zoo
+	url = https://github.com/opencv/opencv_zoo.git
