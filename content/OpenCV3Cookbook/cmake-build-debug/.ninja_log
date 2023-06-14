@@ -1,0 +1,9 @@
+# ninja log v5
+660	985	1682168678117236100	Chapter01/mat	e312ef4ccb1ed7d1
+0	1304	1682168746897904100	Chapter01/CMakeFiles/loadDisplaySave.dir/loadDisplaySave.cpp.o	a00342c2a56808a3
+1	659	1682168677795591900	Chapter01/CMakeFiles/mat.dir/mat.cpp.o	1e1e04b61f9cc0a4
+768	1222	1682168731759858200	Chapter01/logo	96835aa1677bf5f2
+1305	1666	1682168747256256400	Chapter01/loadDisplaySave	badfdbb2d84ba5fc
+0	768	1682168731311217500	Chapter01/CMakeFiles/logo.dir/logo.cpp.o	263fdae4eae4f35c
+0	858	1682346553722123400	Chapter02/CMakeFiles/colorReduce.dir/colorReduce.cpp.o	6e5183795e5d902c
+859	1313	1682346554173325800	Chapter02/colorReduce	c50819ed31ff8c89

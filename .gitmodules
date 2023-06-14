@@ -16,3 +16,6 @@
 [submodule "resources/opencv_zoo"]
 	path = resources/opencv_zoo
 	url = https://github.com/opencv/opencv_zoo.git
+[submodule "resources/stable-diffustion-webui"]
+	path = resources/stable-diffustion-webui
+	url = https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
